@@ -1,0 +1,12 @@
+{TOOLBELT}
+Guide
+
+-h|--help	Display this message
+-t|--tooth	The tooth you wish to record/use:
+	-First option = name of tooth
+	-Second option = use or record
+-p|--prime	Checks if number is prime using simple algorithm
+-s|--sqrt	Returns the square root of number using babylonian algorithm
+-l|--l		Enter a url in "" to return a file with the url's text to the "Lavender_Buds" directory
+	-First option = url
+	-Second option = name of output text file

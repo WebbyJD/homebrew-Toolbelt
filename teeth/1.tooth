@@ -1,0 +1,8 @@
+
+
+clear
+echo "Cleared screen"
+ls ..
+echo "Listed .."
+ls
+echo "Listed PWD"
